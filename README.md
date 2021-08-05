@@ -1,16 +1,25 @@
-### Hi there 👋
+![background](https://user-images.githubusercontent.com/81741180/128277874-2d2ef89d-acc1-4cba-9b80-b7f5c950f2b5.png)
 
-<!--
-**soffia499/soffia499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Human 👋
 
-Here are some ideas to get you started:
+> <em>a developer from Buenos Aires, Argentina</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸: I'm Dofía, I am 20. and I really like to explore, innovate and create new things. 
+
+🧠: I know the following programming languages:
+    *Html
+    *css
+    *javascript
+    *python
+    *django
+    *Mysql
+    *PHP
+    *JAVA
+
+💻: I am a Computer Engineering student. I am looking for a job as a developer (and in constant training).
+
+💜: I love reading. I am a fan of the series and comics.
+
+
+
+
