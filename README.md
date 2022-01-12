@@ -1,4 +1,4 @@
-![background](https://user-images.githubusercontent.com/81741180/128277874-2d2ef89d-acc1-4cba-9b80-b7f5c950f2b5.png)
+![fondo](https://user-images.githubusercontent.com/81741180/149051551-2eab711c-a20f-466c-81fb-ed1e69e59e00.jpeg)
 
 ### Hi Human 👋
 
@@ -16,10 +16,9 @@
     *PHP
     *JAVA
 
-💻: I am a Computer Engineering student. I am looking for a job as a developer (and in constant training).
+💻: I am a Computer Engineering student. I am looking for a job as a developer.
 
 💜: I love reading. I am a fan of the series and comics.
-
 
 
 
