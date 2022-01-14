@@ -11,9 +11,7 @@
     *css
     *javascript
     *python
-    *django
     *Mysql
-    *PHP
     *JAVA
 
 💻: I am a Computer Engineering student. I am looking for a job as a developer.
