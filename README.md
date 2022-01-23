@@ -4,7 +4,7 @@
 
 > <em>a developer from Buenos Aires, Argentina</em>
 
-🌸: I'm Dofía, I am 20. and I really like to explore, innovate and create new things. 
+🌸: I'm Sofía, I am 20. and I really like to explore, innovate and create new things. 
 
 🧠: I know the following programming languages:
     *Html
@@ -12,9 +12,9 @@
     *javascript
     *python
     *Mysql
-    *JAVA
+    *Java
 
-💻: I am a Computer Engineering student. I am looking for a job as a developer.
+💻:  I am a student of Computer Engineering.
 
 💜: I love reading. I am a fan of the series and comics.
 
