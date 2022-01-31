@@ -2,7 +2,7 @@
 
 ### Hi Human 👋
 
-> <em>a developer from Buenos Aires, Argentina</em>
+> <em>developer from Buenos Aires, Argentina</em>
 
 🌸: I'm Sofía, I am 20. and I really like to explore, innovate and create new things. 
 
