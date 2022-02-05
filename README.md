@@ -2,7 +2,7 @@
 
 ### Hi Human 👋 
 
-> <em>developer from Buenos Aires, Argentina</em>
+> <em>💻 Developer from Buenos Aires, Argentina</em>
 
 🌸: I'm Sofía, I am 20. and I really like to explore, innovate and create new things. 
 
@@ -12,9 +12,6 @@
     *javascript
     *python
     *Mysql
-    *Java
-
-💻:  I am a student of Computer Engineering.
 
 💜: I love reading. I am a fan of the series and comics.
 
