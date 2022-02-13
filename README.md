@@ -13,7 +13,7 @@
     *python
     *Mysql
 
-💜: I love reading. I am a fan of the series and comics.
+💜: I am a fan of the series and mangas.
 
 
 
