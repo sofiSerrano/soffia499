@@ -12,6 +12,7 @@
     *javascript
     *python
     *Mysql
+    
 
 💜: I am a fan of the series and mangas.
 
