@@ -4,7 +4,7 @@
 
 > <em>💻 Developer from Buenos Aires, Argentina</em>
 
-🌸: I'm Sofía, I am 20. and I really like to explore, innovate and create new things. 
+🌸: I'm Sofía. I really like to explore, innovate and create new things. 
 
 🧠: I know the following programming languages:
     *Html
